@@ -1,4 +1,4 @@
-name: markdownlint
+name: markdown-integrity
 
 on: [pull_request]
 

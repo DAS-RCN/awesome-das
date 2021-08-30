@@ -1,7 +1,6 @@
 name: Links
 
 on:
-  pull_request:
   schedule:
     - cron: "21 3 * * *"
 
@@ -17,7 +16,7 @@ jobs:
           args: --verbose --no-progress **/*.md **/*.html
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        
+
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v3
         with:
