@@ -28,3 +28,5 @@
 ## Modelling
 
 * [pyrocko.gf](https://pyrocko.org) - Pyrocko-GF can forward model strain and strain-rate along thre fiber's trajectory.
+
+![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png "CC0 1.0 Universal (CC0 1.0)")
