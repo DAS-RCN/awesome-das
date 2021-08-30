@@ -19,7 +19,7 @@
 
 ## Processing
 
-* [mldar](https://github.com/DAS-RCN/mldas) - Machine Learning for distributed acoustic sensing.
+* [mldas](https://github.com/DAS-RCN/mldas) - Machine Learning for distributed acoustic sensing.
 
 ## Visualisation
 
