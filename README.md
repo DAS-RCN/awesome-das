@@ -7,6 +7,7 @@
 <!-- toc -->
 
 * [Data Management](#data-management)
+* [Data repositories](#data-repositories)
 * [Processing](#processing)
 * [Visualisation](#visualisation)
 * [Modelling](#modelling)
@@ -16,6 +17,22 @@
 ## Data Management
 
 * [idas-convert](https://git.pyrocko.org/pyrocko/idas-convert) - Convert Silixa iDAS TDMS data sets efficiently to established seismological data formats.
+
+## Data repositories
+
+Raw data repositories:
+
+* PoroTomo Experiment at Brady Hot Springs ([GDR OpenEI](https://gdr.openei.org/submissions/849))
+* FORGE Phase 2C ([GDR OpenEI](https://gdr.openei.org/submissions/1185))
+* Garner Valley ([GDR OpenEI](https://gdr.openei.org/submissions/614))
+* Belgium DAS ([Caltech](https://data.caltech.edu/records/1296))
+* Monterrey Bay Dark Fiber ([GitHub](https://github.com/njlindsey/Photonic-seismology-in-Monterey-Bay-Dark-fiber1DAS-illuminates-offshore-faults-and-coastal-ocean))
+
+Selected earthquake data:
+
+* SAFOD DAS array ([GitHub](https://github.com/ariellellouch/DASDetection))
+* Stanford Phase 1 experiment ([GitHub](https://github.com/eileenrmartin/FiberOpticEarthquakes))
+* Fairbanks Farmers Loop ([GitHub](https://github.com/eileenrmartin/FiberOpticEarthquakes))
 
 ## Processing
 
