@@ -16,7 +16,7 @@
 
 ## Data Management
 
-* [idas-convert](https://git.pyrocko.org/pyrocko/idas-convert) - Convert Silixa iDAS TDMS data sets efficiently to established seismological data formats.
+* [idas-convert](https://git.pyrocko.org/pyrocko/idas-convert) - Convert and downsample Silixa iDAS TDMS data sets efficiently to established seismological data formats.
 
 ## Data repositories
 
@@ -44,6 +44,6 @@ Selected earthquake data:
 
 ## Modelling
 
-* [pyrocko.gf](https://pyrocko.org) - Pyrocko-GF can forward model strain and strain-rate along thre fiber's trajectory.
+* [pyrocko.gf](https://pyrocko.org) - Pyrocko-GF can forward model strain and strain-rate along the fiber's trajectory.
 
 ![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png "CC0 1.0 Universal (CC0 1.0)")
