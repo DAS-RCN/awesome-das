@@ -37,6 +37,7 @@ Selected earthquake data:
 ## Processing
 
 * [mldas](https://github.com/DAS-RCN/mldas) - Machine Learning for distributed acoustic sensing.
+* [distpy](https://github.com/Schlumberger/distpy) -  An Open Source python module for rapid prototyping Distributed Acoustic Sensing (DAS) processing flows 
 
 ## Visualisation
 
