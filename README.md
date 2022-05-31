@@ -16,17 +16,18 @@
 
 ## Data Management
 
-* [idas-convert](https://git.pyrocko.org/pyrocko/idas-convert) - Convert and downsample Silixa iDAS TDMS data sets efficiently to established seismological data formats.
+* [das-convert](https://git.pyrocko.org/pyrocko/das-convert) - Convert and downsample DAS data sets efficiently to established seismological data formats.
 
 ## Data repositories
 
-Raw data repositories:
+List of public DAS data repositories:
 
 * PoroTomo Experiment at Brady Hot Springs ([GDR OpenEI](https://gdr.openei.org/submissions/849))
 * FORGE Phase 2C ([GDR OpenEI](https://gdr.openei.org/submissions/1185))
 * Garner Valley ([GDR OpenEI](https://gdr.openei.org/submissions/614))
 * Belgium DAS ([Caltech](https://data.caltech.edu/records/1296))
 * Monterrey Bay Dark Fiber ([GitHub](https://github.com/njlindsey/Photonic-seismology-in-Monterey-Bay-Dark-fiber1DAS-illuminates-offshore-faults-and-coastal-ocean))
+* RCA Shore Station outward along the Cascadia Margin ([Announcement/FTP Link](https://oceanobservatories.org/2022/02/distributed-acoustic-sensing-lays-groundwork-for-earthquake-tsunami-warnings-and-more/))
 
 Selected earthquake data:
 
@@ -36,8 +37,10 @@ Selected earthquake data:
 
 ## Processing
 
+* [distpy](https://github.com/Schlumberger/distpy) - An Open Source python module for rapid prototyping Distributed Acoustic Sensing (DAS) processing flows
+* [lightguide](https://github.com/pyrocko/lightguide) - Tools and modelling for distributed acoustic sensing data. Advanced de-noising filtering techniques. Integrates into Pyrocko.
 * [mldas](https://github.com/DAS-RCN/mldas) - Machine Learning for distributed acoustic sensing.
-* [distpy](https://github.com/Schlumberger/distpy) -  An Open Source python module for rapid prototyping Distributed Acoustic Sensing (DAS) processing flows 
+* [jDAS](https://github.com/martijnende/jDAS) - Coherence-based Deep Learning denoising of DAS data.
 
 ## Visualisation
 
